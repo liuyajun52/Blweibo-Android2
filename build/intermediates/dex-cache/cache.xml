@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\亚军\AndroidStudioProjects\Blweibo-Android\blweiboAndroid\build\intermediates\pre-dexed\debug\support-v4-19.1.0-e311e493b238b75da4095bd5ee7b69d76d73dc42.jar"
+        jar="C:\Program Files (x86)\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+    <item
+        dex="C:\Users\亚军\AndroidStudioProjects\Blweibo-Android\blweiboAndroid\build\intermediates\pre-dexed\debug\classes-f70688bbc95702098c92b0ce398da3341d7aa30f.jar"
+        jar="C:\Users\亚军\AndroidStudioProjects\Blweibo-Android\blweiboAndroid\build\intermediates\exploded-aar\Blweibo-Android\pullToRefreshlibrary\unspecified\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="dc61d4e9c4853f52cf566ae49461b94c264be089"/>
+    <item
+        dex="C:\Users\亚军\AndroidStudioProjects\Blweibo-Android\blweiboAndroid\build\intermediates\pre-dexed\debug\classes-d1747d44deb3cdde743b9fb97f40772274286f7d.jar"
+        jar="C:\Users\亚军\AndroidStudioProjects\Blweibo-Android\blweiboAndroid\build\intermediates\exploded-aar\com.actionbarsherlock\actionbarsherlock\4.4.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="af64527b748983a75de9c0756e9768b56b240a49"/>
+    <item
+        dex="C:\Users\亚军\AndroidStudioProjects\Blweibo-Android\blweiboAndroid\build\intermediates\pre-dexed\debug\classes-f64dc39d504a7a2e49e96bfbc439e0ffc86a85c2.jar"
+        jar="C:\Users\亚军\AndroidStudioProjects\Blweibo-Android\blweiboAndroid\build\intermediates\exploded-aar\Blweibo-Android\pullToRefreshListFragment\unspecified\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4b294cf28d304382d70a85596cd71670cad7ecf8"/>
+    <item
+        dex="C:\Users\亚军\AndroidStudioProjects\Blweibo-Android\blweiboAndroid\build\intermediates\pre-dexed\debug\classes-8b2cb11a310e1d45e57c78ba3cbd875a243e5c39.jar"
+        jar="C:\Users\亚军\AndroidStudioProjects\Blweibo-Android\blweiboAndroid\build\intermediates\exploded-aar\Blweibo-Android\slidingMenuLibrary\unspecified\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="5ee69c70962f485b3df5a370268b078e419f7d8c"/>
+    <item
+        dex="C:\Users\亚军\AndroidStudioProjects\Blweibo-Android\blweiboAndroid\build\intermediates\pre-dexed\debug\classes-7d06cdc03e6321ab4089e05858362c48e01652e1.jar"
+        jar="C:\Users\亚军\AndroidStudioProjects\Blweibo-Android\blweiboAndroid\build\intermediates\exploded-aar\Blweibo-Android\pullToRefreshViewPager\unspecified\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="c6f1146fb1d789374f224351e84125d0c5f7dc5b"/>
+
+</pre-dex-items>
